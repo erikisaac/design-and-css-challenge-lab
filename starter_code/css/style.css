@@ -61,10 +61,28 @@ body {
 
 /* Center the container */
 #container {
-  width: 100%;
+  width: 80%;
   margin: auto;
   height: 500px;
 
+}
+
+#benefits {
+  background-color: #f0efef;
+}
+
+#title {
+  color: white;
+  font-size: 24pt;
+}
+
+h2.header {
+  text-align: center;
+  color: white;
+}
+
+button {
+  background-color: yellow;
 }
 
 header {
